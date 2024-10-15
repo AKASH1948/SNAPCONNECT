@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/SNAPCONNECT/static/css/main.fe5efa89.css",
-    "main.js": "/SNAPCONNECT/static/js/main.d0020fda.js",
+    "main.css": "/SNAPCONNECT/static/css/main.982f6f5c.css",
+    "main.js": "/SNAPCONNECT/static/js/main.fd14e612.js",
     "static/js/453.eebb8bdc.chunk.js": "/SNAPCONNECT/static/js/453.eebb8bdc.chunk.js",
     "index.html": "/SNAPCONNECT/index.html",
-    "main.fe5efa89.css.map": "/SNAPCONNECT/static/css/main.fe5efa89.css.map",
-    "main.d0020fda.js.map": "/SNAPCONNECT/static/js/main.d0020fda.js.map",
+    "main.982f6f5c.css.map": "/SNAPCONNECT/static/css/main.982f6f5c.css.map",
+    "main.fd14e612.js.map": "/SNAPCONNECT/static/js/main.fd14e612.js.map",
     "453.eebb8bdc.chunk.js.map": "/SNAPCONNECT/static/js/453.eebb8bdc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe5efa89.css",
-    "static/js/main.d0020fda.js"
+    "static/css/main.982f6f5c.css",
+    "static/js/main.fd14e612.js"
   ]
 }

@@ -115,7 +115,7 @@ const styles = {
       padding: '20px', // Padding inside the border for better spacing
       borderRadius: '10px', // Optional: rounded corners
       backgroundColor: '#fff', // Background color for the container
-      marginTop: '100px', // Adjust margin to your preference
+      marginTop: '600px', // Adjust margin to your preference
     },
     photographersList: {
       display: 'flex',
